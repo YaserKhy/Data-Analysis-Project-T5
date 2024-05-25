@@ -1,12 +1,13 @@
 # Data Analysis Project - T5 Bootcamp
-###### [View Notebook](https://github.com/YaserKhy/Data-Analysis-Project-T5/blob/main/Data%20Analysis%20Project.ipynb)
-###### [View Dataset](https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024?select=linkedin_job_postings.csv)
-Team members :
-- Rami Abdulmalik
-- Yaser Alkhayyat
+<img src='https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png' alt='LinkedIn Logo' width=200 height=200>
 
-# 1. Overview
+## Overview
+Data Analysis project involves analyzing linkedIn job postings dataset extracted from kaggle [View Dataset].(https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024?select=linkedin_job_postings.csv)
 
-# 2. Process
+## Objectives
+- Gain valuable insights from raw data
+- Visualize analysis results using python libraries
 
-# 3. Conclusion
+## Team members :
+- Rami Abdulmalik [GitHub]()
+- Yaser Alkhayyat [GitHub]([https://](https://github.com/YaserKhy))
