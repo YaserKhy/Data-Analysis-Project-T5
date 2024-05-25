@@ -1,5 +1,5 @@
 # Data Analysis Project - T5 Bootcamp
-<img src='https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png' alt='LinkedIn Logo' width=200 height=200>
+<img src='https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png' alt='LinkedIn Logo' width=400 height=200>
 
 ## Overview
 Data Analysis project involves analyzing linkedIn job postings dataset extracted from kaggle [View Dataset].(https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024?select=linkedin_job_postings.csv)
